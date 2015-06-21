@@ -13,6 +13,8 @@ Open all html files in the project in browser.
 *By default bump will open the index file of the project in the browser.*
 ##### *More options coming soon...*
 ### Set Up
+#### Prerequisites
+Python 3 and Sublime Text Command Line Tools downloaded and installed.
 #### Download
 Download the bump executable and the setup.sh file to you home directory.
 #### Set Up Alias on Mac
