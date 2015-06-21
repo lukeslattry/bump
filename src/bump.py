@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Bump 0.1
-# A simple, single command to open a web project in sublime text and your default browser.
+# A simple, single command to open a web project in Sublime Text and your default browser.
 
 from sys import argv, exit
 from subprocess import call
