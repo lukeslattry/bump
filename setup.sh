@@ -2,4 +2,4 @@
 
 # Sets alias to allow use of 'bump' command instead of './bump' on mac
 
-echo alias bump1=./bump >> ~/.bash_profile
+echo alias bump=./bump >> ~/.bash_profile
